@@ -1,0 +1,10 @@
+57aa52d9a33840e9a3e02502113dd99a *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+5217db73ff64b1de19d8673792d3f46e *NEWS.md
+ab5848b9d5f6e43c1d3ccabc9e36a4e0 *R/data.R
+7df9d3f851ce7db283aa784a40a13d18 *R/okcupiddata.R
+a1aa1d2a473ab68f006e1f6072e62962 *data/datalist
+6bd8493ba42823fde669d6da04fbf419 *data/profiles.rda
+b7c2d6e77474bb46ab51206746c326a3 *inst/CITATION
+c76c90f4abc493c1e78bd5fbdfe2d998 *man/okcupiddata.Rd
+e5311ba50705bb5a54e71ef9e054db11 *man/profiles.Rd
